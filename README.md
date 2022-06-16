@@ -30,6 +30,9 @@ npm run lint
 
 项目在线地址：http://erabbit.itheima.net/
 
+userName：xiaotuxian001
+passWorld：123456
+
 笔记：http://zhoushugang.gitee.io/erabbit-client-pc-document/
 
 ### Customize configuration

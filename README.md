@@ -1,3 +1,11 @@
+<!--
+ * @Descripttion: 
+ * @version: 
+ * @Author: congsir
+ * @Date: 2022-06-16 23:10:14
+ * @LastEditors: 
+ * @LastEditTime: 2022-06-16 23:16:51
+-->
 # eribbit-client-pc-124
 
 ## Project setup
@@ -19,6 +27,10 @@ npm run build
 ```
 npm run lint
 ```
+
+项目在线地址：http://erabbit.itheima.net/
+
+笔记：http://zhoushugang.gitee.io/erabbit-client-pc-document/
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
